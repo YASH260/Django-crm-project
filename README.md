@@ -1,6 +1,6 @@
 # Django-CRM-web-app
 
-Welcome to the Django-CRM-mastery-web-app!
+Welcome to the Django-CRM-web-app!
 
 
 
