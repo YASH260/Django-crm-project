@@ -6,7 +6,7 @@ Welcome to the Django-CRM-web-app!
 
 **STEP 1:** Change the directory to the repository.
 ```bash
-  cd crm
+  cd Django-crm-project
 ```
 
 **STEP 2:** Create a virtual environment
